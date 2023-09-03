@@ -1,6 +1,6 @@
 # Kudoboard
-## Kudoboard is an apprciation platform for special occasions, events, shoutouts etc. 
-## Just create a digital card (kudiboard) and invite other people to add their contributions. Then just dilever the appricitation.
+## Kudoboard is an appreciation platform for special occasions, events, shoutouts, etc. 
+## Create a digital card (kudoboard) and invite other people to add their contributions. Then deliver the appreciation.
 ### Tech Stach Used: 
 #### Frontend:
 * Next Js
